@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/Proiect.dir/main.cpp.o  -o Proiect 
