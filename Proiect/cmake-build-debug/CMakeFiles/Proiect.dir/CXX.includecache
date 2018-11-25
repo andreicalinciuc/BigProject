@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
+<<<<<<< HEAD
 /home/andrei/CLionProjects/Retele/BigProject/Proiect/main.cpp
+=======
+/home/andrei/Documents/Retele/BigProject/Proiect/main.cpp
+>>>>>>> efaada55317e1a77203cb7848999ad6268bb9ef4
 iostream
 -
 
